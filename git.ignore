@@ -1,0 +1,68 @@
+# Arquivos compilados
+*.o
+*.obj
+*.exe
+*.out
+
+# Bibliotecas compiladas
+*.a
+*.so
+*.dll
+*.lib
+
+# Debug
+*.pdb
+*.idb
+*.ilk
+
+# Diretórios de build
+build/
+dist/
+
+# Temporários
+*.tmp
+*.log
+
+# VS Code (configurações locais)
+.vscode/
+
+# Editor swap files
+*.swp
+
+# Sistema operacional
+.DS_Store        # macOS
+*.cache/         # linux
+Thumbs.db        # Windows
+# Compilados (executáveis e objetos)
+*.o
+*.obj
+*.exe
+*.out
+*.a
+*.so
+*.dll
+*.lib
+
+# Arquivos de debug
+*.pdb
+*.idb
+*.ilk
+
+# Diretórios comuns de build
+build/
+dist/
+
+# Arquivos temporários
+*.tmp
+*.temp
+*.log
+
+# Arquivos do editor
+.vscode/
+*.swp
+
+# MacOS
+.DS_Store
+
+# Linux
+*.cache/
